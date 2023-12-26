@@ -1,0 +1,8 @@
+
+In python there are many python package index exist on official websites
+we can download them through terminal
+
+search pypi on python website
+install it
+
+e.g. pip install openpyxl
